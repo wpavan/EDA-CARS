@@ -7,3 +7,6 @@ data(mtcars)
 
 # View the first few rows of the dataset
 head(mtcars)
+
+# Summary statistics of the dataset
+summary(mtcars)
